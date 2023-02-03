@@ -1,1 +1,1 @@
-# NLP Project - EmailSpam
+# Detection of SPAM in Email
